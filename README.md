@@ -78,3 +78,11 @@ This module installs the DPI Tunnel application with elevated privileges, allowi
 - If you encounter issues after uninstalling the module, enter the following command in the terminal under root:
   ```bash
   settings put global http_proxy ""
+
+  # ZDT-D – Fork Update  
+
+The module has moved to a new fork and is now called **ZDT-D**.  
+You can find it here: [ZDT-D on GitHub](https://github.com/GAME-OVER-op/ZDT-D).  
+
+Stay tuned for updates! 🚀  
+
